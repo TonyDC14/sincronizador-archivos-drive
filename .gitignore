@@ -1,0 +1,58 @@
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled class file
+target/
+*.class
+
+# Compiled Maven dependencies
+mvnw
+mvnw.cmd
+.mvn/
+target/
+
+# Logs
+logging/
+log/
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+spring-boot-starter-*/target/
+spring-boot-starter-*/build/
+
+# Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# Package Files
+*.jar
+*.war
+*.ear
